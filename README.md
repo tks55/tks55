@@ -26,11 +26,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=LinearDerivatives&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=LinearDerivatives&theme=transparent&show_owner=true)](https://github.com/tks55/LinearDerivatives)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=ADTS&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=ADTS&theme=transparent&show_owner=true)](https://github.com/tks55/ADTS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=stockBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=stockBot&theme=transparent&show_owner=true)](https://github.com/tks55/stockBot)
 
 *and others*!
 
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 *As of 8/8/24*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=LinearDerivatives&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tks55&repo=LinearDerivatives&theme=transparent&show_owner=true)](https://github.com/tks55/LinearDerivatives)
 
 *and others*!
 
